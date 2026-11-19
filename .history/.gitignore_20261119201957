@@ -1,0 +1,12 @@
+# Virtual environments in any exercise folder
+.venv/
+.venv-*/
+venv/
+
+# Python and macOS generated files
+__pycache__/
+.DS_Store
+
+# Downloaded course data and preview videos
+data/
+preview.mp4
